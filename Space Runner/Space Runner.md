@@ -26,19 +26,21 @@ Want to see how it all works or contribute to the project? Check out the source 
 
 ## 📷 Screenshots
 
-![Space Runner Screenshot](path/to/screenshot.png)
-
+![Space Runner Screenshot](0.PNG)
+![Space Runner Screenshot](1.PNG)
+![Space Runner Screenshot](2.PNG)
 ## 💬 Feedback & Support
 
 We'd love to hear your feedback! Feel free to reach out with suggestions or report any issues.
 
-- **Email:** your-email@example.com
+- **Email:** your-rtmsinnovations@gmail.com
 - **Itch.io Comments:** Leave a comment on the game's [itch.io page](https://rtms.itch.io/space-runner)
 
 ## 👥 Meet the Team
 
-- **[Name 1]** - [Role/Contribution]
-- **[Name 2]** - [Role/Contribution]
-- **[Name 3]** - [Role/Contribution]
+- **RICHARD B MELATH** 
+- **THOMAS ELDHOSE** 
+- **MADHAVAN V**
+- **SARANG R** 
 
 Thank you for playing and supporting **Space Runner**! 🚀
